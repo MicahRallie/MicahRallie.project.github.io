@@ -1,13 +1,13 @@
-<!DOCTYPE HTML>
+<!DOCTyPE HTML>
 <html>
     <Title>wip</Title>
-    <link href="style.css">
+    <link rel="stylesheet" href="style.css">
 </html>
 
 <body>
     <div>
         <nav>
-            <h1></h1>
+            <h1>test</h1>
         </nav>
     </div>
 </body>
