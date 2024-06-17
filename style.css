@@ -1,3 +1,13 @@
 body{
-    background-color: rgb(65, 55, 75);
+    background-color: rgb(240, 240, 240);
+}
+
+#welcome{
+    text-align: center;
+    font-family:'Courier New';
+}
+
+.sidebar{
+    position: relative;
+    left: 600px;
 }
