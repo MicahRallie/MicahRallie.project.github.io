@@ -1,1 +1,2 @@
 # PersonalProject
+This may be both a project and a test; see how well I can create a website without instruction. This is mainly for my own work. Currently, if a person other than me is reading this, you are either a hacker or just took my phone. I don't plan to make this public, but I might one day, so who knows.
