@@ -1,2 +1,2 @@
 # PersonalProject
-This may be both a project and a test; see how well I can create a website without instruction. This is mainly for my own work. Currently, I don't know why anyone would be looking at this, so if you are, hello random person. Prepare for boredom right now. Not much is here.
+This may be both a project and a test; see how well I can create a website without instruction. This is mainly for my own work. Currently, I don't know why anyone would be looking at this, so if you are, hello random person. Prepare for boredom right now. Not much is here. At this current time, I am testing this out as a storage space for ASL words I have learned.
